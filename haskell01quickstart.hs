@@ -7,8 +7,9 @@
 square :: Int -> Int
 square x = x^2
 
--- Verifica se um numero eh par 
--- Ilustra uso de if/then/else para expressar condicional 
+-- Verifica se um numero eh par
+
+-- Ilustra uso de if/then/else para expressar condicional
 -- A funcao 'mod' retorna o resto da divisao inteira
 -- A função seguinte apresenta uma versão melhorada
 isEven :: Int -> Bool
